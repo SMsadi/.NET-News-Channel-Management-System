@@ -1,0 +1,14 @@
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\DAL.dll.config
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\DAL.dll
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\DAL.pdb
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\EntityFramework.dll
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\EntityFramework.xml
+F:\ASP.NET\NewsAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.dll
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.pdb
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.Migrations.initdb.resources
+F:\ASP.NET\NewsAPI\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
